@@ -3,8 +3,9 @@
 ## <span style="color:blue">due by Friday at midnight</span>
 
 Submit:  
-1\. Your script ending in `.R`  
-2\. Your output files  
+1\. Your data (best in .csv format)
+2\. Your script ending in `.R`  
+3\. Your output files  
 
 | Criteria           | Evaluation                                                                                             | Scoring |
 | ------------------ | ------------------------------------------------------------------------------------------------------ | ------- |
@@ -41,7 +42,7 @@ Develop a **new analysis** or **data visualization** or find a **new package** t
 
 This is an open-ended assignment, so use our judgement as to what to include. Here are some suggestions for making a well-documented and useful script.
 
-1.  **Describe the purpose of the script**. Are you doing basic data exploration? Trying to apply some particular kind of analysis or method? A data visualization (what kind)? Itʻs good to provide an explanation so that you can remind yourself what you were trying to do when you look back at it. Provide a note in the comments.
+1.  **Describe the purpose of the script**. What is new to you and what are you trying to learn? What are you doing? Are you doing basic data exploration? Trying to apply some particular kind of analysis or method? A data visualization (what kind)? Itʻs good to provide an explanation so that you can remind yourself what you were trying to do when you look back at it. Provide a note in the comments.
 
 2. **The Data** Read in your data, and include in comments a brief description of the data. E.g.:
 ```
