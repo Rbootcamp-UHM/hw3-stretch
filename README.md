@@ -65,9 +65,9 @@ CONGRATULATIONS! You just finished your last homework assignment, and hopefully 
 1.  Test and debug your script. As a final check, after saving your script, shut down R completely and then restart and run from source. Does it run without error?
 
 2.  Submit:  
-  a. Your script,  
-  b. pdfs
-  c. any other output files   
+  a. Your data,
+  b. Your script,  
+  c. pdfs or any other output files   
 
 3.  As you go along start pushing your work up to your GitHub repo. Push early and push often! When you're done, submit it:
 
