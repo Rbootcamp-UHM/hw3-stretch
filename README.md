@@ -13,7 +13,7 @@ Submit:
 | Code Readable      | Good use of whitespace,etc                                                                             | 0-5     |
 | Understandable     | Concise use of helpful comments - see cars_script.R You are welcome to delete the explanation comments | 0-5     |
 
-Clone the `hw3-stretch` repository into your `Rclass\Homework` directory (please use the invitation link to accept this assignment https://classroom.github.com/a/yrZ6uyiJ and then copy the link from your personal repository so that your username is correct):
+Clone the `hw3-stretch` repository into your `Rclass\Homework` directory (please use the invitation link to accept this assignment https://classroom.github.com/a/vQBgv9P0 and then copy the link from your personal repository so that your username is correct):
 
     git clone https://github.com/Rbootcamp-UHM/....git  
 
