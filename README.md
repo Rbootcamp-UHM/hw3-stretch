@@ -21,17 +21,18 @@ If you run into trouble with git or GitHub, check out the instructions here: <ht
 
 ## The Idea:
 
-Demonstrate your fabulous new R abilities by trying something new on your own data or a new-to-you dataset. You may:
+Demonstrate your fabulous new R abilities by trying something new on your **own data or a new-to-you dataset**. You may:
 * Use your own data or
 * Ask your research advisor for data or
 * Or use a built-in dataset or
 * Use one of the datasets provided in ClassCodeData or
 * Find publicly available data (GenBank, or TreeBase, or Dryad, other data repository, or a website, etc. )
 
-Develop a new analysis or data visualization or find a new package to try on your data.  I donʻt really care what you do, just so long as you stretch yourself. Here are some ideas:
-* **Try a New Package** a good place to look for new packages to try are the **Task Views** on http://r-project.org. On the left menu bar click CRAN, choose a mirror, then click on `Task Views`. These are great summaries of all of the packages in an area.
-* **Why did you want to learn R?** Was it to learn how to do graphics? Well then write a script demonstrating all of the possible ways to graph your data. Whatever it was, go for it!! Here is your chance.
-* **Learn how to do an analysis for your work** Do you have a research project that requires a particular kind of analysis? Well, figure it out!
+Develop a **new analysis** or **data visualization** or find a **new package** to try on your data.  I donʻt really care what you do, just so long as you stretch yourself. Here are some ideas:
+* **Try a New Package** a good place to look for new packages to try are the **Task Views** on http://r-project.org. On the left menu bar click CRAN, choose a mirror, then click on `Task Views`. These are great summaries of all of the packages in an area. -OR-
+* **Why did you want to learn R?** Was it to learn how to do graphics? Well then write a script demonstrating all of the possible ways to graph your data. Whatever it was, go for it!! Here is your chance. -OR-
+* **Learn how to do an analysis for your work** Do you have a research project that requires a particular kind of analysis? Well, figure it out! -OR-
+* **Something else** As long as you demonstrate "stretching" your abilities, go for it!
 
 
 ![](taskviews.png)
