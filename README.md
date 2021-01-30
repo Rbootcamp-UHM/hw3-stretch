@@ -3,7 +3,7 @@
 ## <span style="color:blue">due by Friday at midnight</span>
 
 Submit:  
-1\. Your data (best in .csv format)
+1\. Your data (best in .csv format)  
 2\. Your script ending in `.R`  
 3\. Your output files  
 
@@ -65,7 +65,7 @@ CONGRATULATIONS! You just finished your last homework assignment, and hopefully 
 1.  Test and debug your script. As a final check, after saving your script, shut down R completely and then restart and run from source. Does it run without error?
 
 2.  Submit:  
-  a. Your data,
+  a. Your data,  
   b. Your script,  
   c. pdfs or any other output files   
 
